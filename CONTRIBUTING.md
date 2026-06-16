@@ -1,4 +1,4 @@
-# Contributing to Safe Backup & Restore
+# Contributing to Forensic Recovery
 
 Thank you for your interest in contributing! This project welcomes contributions from the community.
 

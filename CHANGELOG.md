@@ -8,11 +8,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- Initial open-source release preparation
-- Comprehensive README.md with usage documentation
+- Repositioned as forensic evidence acquisition tool
+- README rewritten for digital forensics / incident response audience
+- restore_backup.ps1: added configurable `-Destination` parameter
 - MIT License
 - CONTRIBUTING.md guidelines
-- .gitignore for backup outputs and logs
+- .gitignore for acquisition outputs and logs
 - This CHANGELOG.md
 
 ## [1.0.0] - 2026-06-16
